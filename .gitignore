@@ -1,0 +1,19 @@
+# PHP / Laravel
+buku-app/vendor/
+buku-app/node_modules/
+buku-app/public/build/
+buku-app/storage/logs/
+buku-app/storage/framework/cache/
+buku-app/storage/framework/sessions/
+buku-app/storage/framework/views/
+buku-app/bootstrap/cache/
+buku-app/.env
+buku-app/.env.*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Git
+.git/
